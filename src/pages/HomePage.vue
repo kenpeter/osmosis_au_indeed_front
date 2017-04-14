@@ -46,5 +46,6 @@
 
 .mycol {
   border: 1px solid;
+  height: 200px;
 }
 </style>

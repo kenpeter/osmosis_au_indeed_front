@@ -1,6 +1,6 @@
 ## Intro
 
-Simple single app app
+Simple single app to display some jobs from https://au.indeed.com/
 
 ## Install
 yarn instlal

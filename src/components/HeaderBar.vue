@@ -9,4 +9,7 @@
 </script>
 
 <style>
+  .menu-links {
+    text-align: center;
+  }
 </style>
