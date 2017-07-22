@@ -1,9 +1,13 @@
-## Intro
+# Intro
 
-Simple single app to display some jobs from https://au.indeed.com/
+Hire me at [https://au.linkedin.com/in/thegaryliang](https://au.linkedin.com/in/thegaryliang)
 
-## Install
-yarn instlal
+A little vuejs site scrapes php, javascript, web, it jobs from https://au.indeed.com/ every night. It makes easy to navigate jobs in one long page.
 
-## Run
+Demo: http://indeedfront.shopshop.space
+
+# Install
+
+
+# Run
 yarn dev
